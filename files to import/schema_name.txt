@@ -1,0 +1,4 @@
+create schema "test_db"
+
+import darb.csv
+import proj.csv
